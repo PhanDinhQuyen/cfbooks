@@ -1,0 +1,5 @@
+::1 - - [10/Sep/2024:05:30:20 +0000] "GET / HTTP/1.1" 200 62 "-" "curl/8.8.0"
+::1 - - [10/Sep/2024:06:10:56 +0000] "POST /v1/api/user/signup HTTP/1.1" 500 - "-" "PostmanRuntime/7.41.1"
+::1 - - [10/Sep/2024:06:11:38 +0000] "POST /v1/api/user/signup HTTP/1.1" 404 - "-" "PostmanRuntime/7.41.1"
+::1 - - [10/Sep/2024:06:12:00 +0000] "POST /v1/api/access/signup HTTP/1.1" 500 - "-" "PostmanRuntime/7.41.1"
+::1 - - [10/Sep/2024:06:12:58 +0000] "POST /v1/api/access/signup HTTP/1.1" 201 68 "-" "PostmanRuntime/7.41.1"
