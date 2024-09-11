@@ -3,3 +3,7 @@
 ::1 - - [10/Sep/2024:06:11:38 +0000] "POST /v1/api/user/signup HTTP/1.1" 404 - "-" "PostmanRuntime/7.41.1"
 ::1 - - [10/Sep/2024:06:12:00 +0000] "POST /v1/api/access/signup HTTP/1.1" 500 - "-" "PostmanRuntime/7.41.1"
 ::1 - - [10/Sep/2024:06:12:58 +0000] "POST /v1/api/access/signup HTTP/1.1" 201 68 "-" "PostmanRuntime/7.41.1"
+::1 - - [11/Sep/2024:09:40:57 +0000] "POST /v1/api/access/signup HTTP/1.1" 201 - "-" "PostmanRuntime/7.41.2"
+::1 - - [11/Sep/2024:09:42:45 +0000] "POST /v1/api/access/signup HTTP/1.1" 500 - "-" "PostmanRuntime/7.41.2"
+::1 - - [11/Sep/2024:09:43:10 +0000] "POST /v1/api/access/signup HTTP/1.1" 400 374 "-" "PostmanRuntime/7.41.2"
+::1 - - [11/Sep/2024:09:43:54 +0000] "POST /v1/api/access/signup HTTP/1.1" 201 - "-" "PostmanRuntime/7.41.2"
